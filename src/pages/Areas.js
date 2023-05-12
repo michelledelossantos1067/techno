@@ -66,14 +66,14 @@ La carrera de Hotelería y Turismo tiene como objeto de estudio la administraci�
                 <div className='footerbg'></div>
                 <div className='liceo'>
                     <img className='img11' src={logo2}/>
-                <h6>Instituto Tecnológico de Las Américas ITLA</h6>
-                <h6>Autopista Las Américas, Km. 27, PCSD, La Caleta, Boca Chica 11606</h6>
+                    <h6>Liceo Politécnico Pedro Henriquez Ureña</h6>
+                <h6>, Km. 27, PCSD, La Caleta, Boca Chica 11606</h6>
                 <h6>809-738-4852 / 809-793-2557</h6>
-                <h6>info@itla.edu.do</h6>
+                <h6>pedrohenriquez@gmail.com</h6>
                 <h6>TÉRMINOS DE USO | POLÍTICAS DE PRIVACIDAD | PREGUNTAS FRECUENTES</h6>
                 <h6>© 2023 TODOS LOS DERECHOS RESERVADOS</h6>
                 </div>
-            <p>© 2023 ITLA Instituto Tecnológico de las Americas</p>
+            <p>© 2023 Liceo Politécnico Pedro Henriquez Ureña</p>
             </div>
 
         </div>
